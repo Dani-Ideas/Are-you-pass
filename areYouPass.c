@@ -12,7 +12,7 @@ int main ()
 	    	{
 	    		printf("Ok you are on fire");
 	    	}
-        	else if (note>8|| note==8)// I know was could use note>7, but I wnato check the operator OR  
+        	else if (note>8|| note==8)// I know was could use "note>7", but I wnato check the operator OR  
 	    	{
 	    		printf("Great job you are succes the subjet");
 	    	}
